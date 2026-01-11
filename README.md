@@ -1,7 +1,7 @@
 # CDB_Editors
 There are two CDB Editors. Its recommended to use "CDBEditor.html".
 
-
+<img width="800" height="471" alt="image" src="https://github.com/user-attachments/assets/3e1d62e4-39c8-4553-9474-9034d2f96101" />
 
 
 
@@ -10,6 +10,9 @@ Features
 2) Organized Categories thats read from the CDB
 3) Raw Json editor (Can be toggle On/Off)
 4) Basic search function. 
+
+<img width="800" height="913" alt="image" src="https://github.com/user-attachments/assets/32de3f69-576b-421c-86f7-3644c43accbb" />
+
 
 
 Instructions
